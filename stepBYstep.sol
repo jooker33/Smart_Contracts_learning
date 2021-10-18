@@ -11,7 +11,7 @@ contract stepBYstep {
     // Contract can have an instance variables.
     // In this example instance variable `timestamp` is used to store the time of `constructor` or `touch`
     // function call
-    uint32 public timestamp;d
+    uint32 public timestamp;
     string[] public Step;
     uint256 public length_1=0;
     uint256 public length_2=0;
